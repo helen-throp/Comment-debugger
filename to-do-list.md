@@ -1,3 +1,5 @@
+Maybe just try to implement for Python or Java then rescale to other languages?
+
 - Function which detects extension (and thus language) of code file
 - Retrieve the character which marks a comment in that language from somewhere
 (Or maybe just write separate functions for each language ... but there's a lot of languages)
